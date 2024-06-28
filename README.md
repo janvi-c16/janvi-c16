@@ -1,3 +1,4 @@
+<img src="Janvi_Banner">
 <h1 align="center">Hi 👋, I'm Janvi Chauhan</h1>
 <h3 align="center">Aspiring software developer with a strong foundation in front-end development and proficiency in multiple programming languages, including C++, C, Java, and Python. Experienced in data science and data structures and algorithms (DSA), with a keen interest in leveraging these skills to solve complex problems and build innovative solutions.</h3>
 
