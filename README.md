@@ -1,6 +1,6 @@
 <img src="Janvi_Banner.png">
 <h1 align="center">Hi 👋, I'm Janvi Chauhan</h1>
-<h3 align="center">Aspiring software developer with a strong foundation in front-end development and proficiency in multiple programming languages, including C++, C, Java, and Python. Experienced in data science and data structures and algorithms (DSA), with a keen interest in leveraging these skills to solve complex problems and build innovative solutions.</h3>
+<h3 align="center">Aspiring software developer with a strong foundation in data structures and algorithms (DSA) and a passion for AI/ML-driven problem-solving. Experienced in building diverse applications, games, and full-stack projects, including AI/ML models. Proficient in front-end and full-stack development, dedicated to crafting dynamic websites and innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janvi-c16&label=Profile%20views&color=0e75b6&style=flat" alt="janvi-c16" /> </p>
 
