@@ -17,36 +17,6 @@ Currently diving deeper into:
 
 ---
 
-### 🚀 Featured Projects
-
-#### ⚖️ [LegalSnap](https://github.com/janvi-c16/legalsnap) — Your AI Legal Assistant  
-Analyze legal docs, extract clauses, and get smart insights instantly  
-> Tech: Next.js, NLP, Transformers  
-> 📚 AI-powered document intelligence with future-ready UX
-
----
-
-#### 🫀 [My Heart Mate](https://github.com/janvi-c16/my-heart-mate) — Cardiovascular Health Chatbot  
-A chatbot that offers heart health and lifestyle guidance, and generates reports from echocardiogram data.
-> Tech: Python, NLP, rule-based logic  
-> ❤️ Built to promote awareness and preventive care
-
----
-
-#### 📈 [Stocket](https://github.com/janvi-c16/StockIt) — Stock Forecasting Web App  
-Predict stock trends using **GRU-based models** with real-time charting  
-> Tech: Flask, TensorFlow, yfinance, scikit-learn  
-> ✅ Live predictions, interactive UI, and clean APIs
-
----
-
-#### 🧏‍♀️ [Sign Language Recognition](https://github.com/janvi-c16/sign_language)  
-A webcam-based system that interprets hand gestures using ML and OpenCV  
-> Tech: Python, OpenCV, Random Forest  
-> 🎯 Designed for real-time accessibility and communication
-
----
-
 ### 🛠️ Tools & Tech I Use
 
 #### 💻 Languages  
