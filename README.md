@@ -27,7 +27,7 @@ Analyze legal docs, extract clauses, and get smart insights instantly
 ---
 
 #### 🫀 [My Heart Mate](https://github.com/janvi-c16/my-heart-mate) — Cardiovascular Health Chatbot  
-A conversational agent offering lifestyle and heart health advice  
+A conversational agent offering lifestyle and heart health advice with generating reports based on echocardiogram
 > Tech: Python, NLP, rule-based logic  
 > ❤️ Built to promote awareness and preventive care
 
