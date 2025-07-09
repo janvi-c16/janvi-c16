@@ -1,24 +1,81 @@
-<img src="Janvi_Banner.png">
-<h1 align="center">Hi 👋, I'm Janvi Chauhan</h1>
-<h3 align="center">Aspiring software developer with a strong foundation in data structures and algorithms (DSA) and a passion for AI/ML-driven problem-solving. Experienced in building diverse applications, games, and full-stack projects, including AI/ML models. Proficient in front-end and full-stack development, dedicated to crafting dynamic websites and innovative solutions.</h3>
+<h1 align="center">Hi 👋 I'm Janvi Chauhan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janvi-c16&label=Profile%20views&color=0e75b6&style=flat" alt="janvi-c16" /> </p>
-
-- 🌱 I’m currently learning **MERN stack development**
-
-- 📫 How to reach me **janvichauhan1608@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/janvi chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janvi chauhan" height="30" width="40" /></a>
-<a href="https://instagram.com/_janvei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_janvei" height="30" width="40" /></a>
+<p align="center">
+🧠 AI/ML Enthusiast • 💻 Full Stack Explorer • ❤️ Passionate about Tech that Matters  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janvi-c16&show_icons=true&locale=en&layout=compact" alt="janvi-c16" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janvi-c16&show_icons=true&locale=en" alt="janvi-c16" /></p>
+I’m a final-year Computer Science student with a heart for solving real-world problems using **AI**, **machine learning**, and **web development**. Whether it's building tools to enhance **healthcare**, **legal access**, or **finance**, I enjoy taking ideas from concept to code — and beyond.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janvi-c16&" alt="janvi-c16" /></p>
+Currently diving deeper into:
+- 🔍 AI for Legal & Medical domains  
+- 🔗 LLMs, NLP, and multimodal AI  
+- 🚀 Deploying ML in production settings  
+
+---
+
+### 🚀 Featured Projects
+
+#### 📈 [StockIt](https://github.com/janvi-c16/StockIt) — Stock Forecasting Web App  
+Predict stock trends using **GRU-based models** with real-time charting  
+> Tech: Flask, TensorFlow, yfinance, scikit-learn  
+> ✅ Live predictions, interactive UI, and clean APIs
+
+---
+
+#### 🧏‍♀️ [Sign Language Recognition](https://github.com/janvi-c16/sign_language)  
+A webcam-based system that interprets hand gestures using ML and OpenCV  
+> Tech: Python, OpenCV, Random Forest  
+> 🎯 Designed for real-time accessibility and communication
+
+---
+
+#### ⚖️ [LegalSnap](https://github.com/janvi-c16/legalsnap) — Your AI Legal Assistant  
+Analyze legal docs, extract clauses, and get smart insights instantly  
+> Tech: Next.js, NLP, Transformers  
+> 📚 AI-powered document intelligence with future-ready UX
+
+---
+
+#### 🫀 [My Heart Mate](https://github.com/janvi-c16/my-heart-mate) — Cardiovascular Health Chatbot  
+A conversational agent offering lifestyle and heart health advice  
+> Tech: Python, NLP, rule-based logic  
+> ❤️ Built to promote awareness and preventive care
+
+---
+
+### 🛠️ Tools & Tech I Love
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![OpenCV](https://img.shields.io/badge/OpenCV-lightblue?logo=opencv)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
+
+---
+
+### ✨ Fun Facts  
+- 🧩 I love debugging more than building (yes, really!)  
+- 🧪 I think of machine learning as controlled curiosity  
+
+---
+
+### 📫 Let's Connect
+
+- 📩 **Email**: janvichauhan1608@gmail.com  
+- 💼 **LinkedIn**: [janvi-chauhan-9297a92a1](https://www.linkedin.com/in/janvi-chauhan-9297a92a1)  
+- 🔗 **GitHub**: [janvi-c16](https://github.com/janvi-c16)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janvi-c16&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvi-c16&layout=compact&theme=radical" height="165" />
+</p>
+
+---
+
+⭐ Star your favorite project if it inspires you. Let's build something meaningful together!
