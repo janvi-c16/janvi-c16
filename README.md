@@ -19,20 +19,6 @@ Currently diving deeper into:
 
 ### 🚀 Featured Projects
 
-#### 📈 [StockIt](https://github.com/janvi-c16/StockIt) — Stock Forecasting Web App  
-Predict stock trends using **GRU-based models** with real-time charting  
-> Tech: Flask, TensorFlow, yfinance, scikit-learn  
-> ✅ Live predictions, interactive UI, and clean APIs
-
----
-
-#### 🧏‍♀️ [Sign Language Recognition](https://github.com/janvi-c16/sign_language)  
-A webcam-based system that interprets hand gestures using ML and OpenCV  
-> Tech: Python, OpenCV, Random Forest  
-> 🎯 Designed for real-time accessibility and communication
-
----
-
 #### ⚖️ [LegalSnap](https://github.com/janvi-c16/legalsnap) — Your AI Legal Assistant  
 Analyze legal docs, extract clauses, and get smart insights instantly  
 > Tech: Next.js, NLP, Transformers  
@@ -47,19 +33,59 @@ A conversational agent offering lifestyle and heart health advice
 
 ---
 
-### 🛠️ Tools & Tech I Love
-
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![OpenCV](https://img.shields.io/badge/OpenCV-lightblue?logo=opencv)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
+#### 📈 [Stocket](https://github.com/janvi-c16/StockIt) — Stock Forecasting Web App  
+Predict stock trends using **GRU-based models** with real-time charting  
+> Tech: Flask, TensorFlow, yfinance, scikit-learn  
+> ✅ Live predictions, interactive UI, and clean APIs
 
 ---
 
-### ✨ Fun Facts  
-- 🧩 I love debugging more than building (yes, really!)  
-- 🧪 I think of machine learning as controlled curiosity  
+#### 🧏‍♀️ [Sign Language Recognition](https://github.com/janvi-c16/sign_language)  
+A webcam-based system that interprets hand gestures using ML and OpenCV  
+> Tech: Python, OpenCV, Random Forest  
+> 🎯 Designed for real-time accessibility and communication
+
+---
+
+### 🛠️ Tools & Tech I Use
+
+#### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-00599C?logo=c)
+
+#### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+#### 🤖 Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn)
+![NLP](https://img.shields.io/badge/NLP-2C4E80?logo=openai&logoColor=white)
+
+#### 📊 Data Science & Analysis  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib)
+![yfinance](https://img.shields.io/badge/yfinance-003B71?style=flat&logo=moneygram&logoColor=white)
+
+#### 📷 Computer Vision  
+![OpenCV](https://img.shields.io/badge/OpenCV-lightblue?logo=opencv)
+
+#### 🛢️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+
+#### 🧰 Tools & Platforms  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel)
 
 ---
 
